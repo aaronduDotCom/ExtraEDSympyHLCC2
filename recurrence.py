@@ -1,0 +1,2 @@
+class RecurrenceSolver:
+    pass
